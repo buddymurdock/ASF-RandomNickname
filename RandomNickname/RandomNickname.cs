@@ -11,6 +11,7 @@ using ArchiSteamFarm.Core;
 using ArchiSteamFarm.Plugins.Interfaces;
 using ArchiSteamFarm.Steam;
 using JetBrains.Annotations;
+using SteamKit2;
 
 namespace RandomNickname;
 
